@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Meeting Room Booking System
 
 A simple and scalable meeting room booking application built for managing office room reservations.
