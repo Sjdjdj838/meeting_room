@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PROJECT CONTEXT
 
 You are acting as a senior full-stack software engineer and solution architect responsible for designing a scalable and production-ready Meeting Room Booking Platform for modern organizations.
